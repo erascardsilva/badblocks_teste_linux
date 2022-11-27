@@ -1,3 +1,8 @@
+/*
+        Programa para verificar defeitos em dispositivos e armazenamento no LINUX
+                    Desenvolvedor Erasmo Cardoso
+*/
+
 #include <iostream>
 #include <cstdlib>
 
