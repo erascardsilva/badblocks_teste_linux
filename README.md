@@ -1,3 +1,3 @@
 # badblocks_teste_linux
 
-teste em linux de badblocks em hds
+Programa em C++ para teste de unidades e disco
